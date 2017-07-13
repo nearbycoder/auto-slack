@@ -1,1 +1,1 @@
-web: npm run serve
+web: ./node_modules/forever/bin/forever ./dist/server.js
